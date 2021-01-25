@@ -8,3 +8,4 @@ Rhys Brockman
 Connor Jones
 Katie Kobasuk
 Jackson Tate
+Joel Elder
