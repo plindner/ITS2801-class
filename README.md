@@ -3,4 +3,5 @@ This is a repository set up for the ITS 2801 class at Ohio University
 Nick Tipton  
 Reece Bruni
 Colby Bartley  
-Owen Bailey
+Owen Bailey  
+Rhys Brockman
