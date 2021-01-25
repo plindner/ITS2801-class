@@ -4,4 +4,5 @@ Nick Tipton
 Reece Bruni
 Colby Bartley  
 Owen Bailey  
-Rhys Brockman
+Rhys Brockman  
+Connor Jones
