@@ -5,9 +5,9 @@ Reece Bruni
 Colby Bartley  
 Owen Bailey  
 Rhys Brockman  
-Connor Jones
-Jackson Tate   
+Connor Jones 
 Tyler Lineweaver  
 Anthony Porter  
 Katie Kobasuk  
 Joel Elder  
+Jackson Tate
