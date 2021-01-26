@@ -9,5 +9,5 @@ Connor Jones
 Katie Kobasuk
 Jackson Tate
 Joel Elder  
-Tyler Lineweaver
+Tyler Lineweaver  
 Anthony Porter
