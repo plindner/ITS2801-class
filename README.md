@@ -6,8 +6,8 @@ Colby Bartley
 Owen Bailey  
 Rhys Brockman  
 Connor Jones
-Jackson Tate
-Joel Elder    
+Jackson Tate   
 Tyler Lineweaver  
 Anthony Porter  
-Katie Kobasuk
+Katie Kobasuk  
+Joel Elder  
