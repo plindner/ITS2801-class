@@ -1,7 +1,7 @@
 # ITS2801-class
 This is a repository set up for the ITS 2801 class at Ohio University  
 Nick Tipton  
-Reece Bruni
+Reece Bruni  
 Colby Bartley  
 Owen Bailey  
 Rhys Brockman  
