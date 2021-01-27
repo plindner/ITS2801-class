@@ -10,5 +10,5 @@ Tyler Lineweaver
 Anthony Porter  
 Katie Kobasuk  
 Joel Elder  
-Jackson Tate
+Jackson Tate  
 Kyle Greer
