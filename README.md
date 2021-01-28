@@ -12,7 +12,5 @@ Katie Kobasuk
 Joel Elder  
 Jackson Tate  
 Kyle Greer
-
 Chris Lamp
-
 Gabriel Kim
