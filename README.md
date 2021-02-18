@@ -11,7 +11,8 @@ Anthony Porter
 Katie Kobasuk  
 Joel Elder  
 Jackson Tate  
-Kyle Greer
-Chris Lamp
-Gabriel Kim
-Tre Rine
+Kyle Greer  
+Chris Lamp  
+Gabriel Kim  
+Tre Rine  
+Cameron Gatton  
