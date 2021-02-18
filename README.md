@@ -5,7 +5,7 @@ Reece Bruni
 Colby Bartley  
 Owen Bailey  
 Rhys Brockman  
-Connor Jones 
+Connor Jones  
 Tyler Lineweaver  
 Anthony Porter  
 Katie Kobasuk  
